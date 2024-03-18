@@ -2,6 +2,6 @@
 /* hello world*/
 #include <stdio.h>
 int main(){
-    printf("Thank you Revanth");
+    printf("hey hi");
 return 0;
 }
